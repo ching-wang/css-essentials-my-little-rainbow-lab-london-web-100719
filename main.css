@@ -66,7 +66,6 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-}
 
 #indigo{
   border: 20px solid indigo; /* this is short hand for setting     the border's width, its type, and color */
@@ -77,6 +76,5 @@ div {
   border-left-color: transparent; /* these remove the color from the left side */
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
-}
 }
 
