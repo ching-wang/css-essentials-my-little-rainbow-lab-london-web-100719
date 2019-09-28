@@ -66,7 +66,7 @@ div {
 }
 
 #indigo{
-  border: 20px solid indigo; /* this is short hand for setting     the border's width, its type, and color */
+  border: 20px solid orange; /* this is short hand for setting     the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
